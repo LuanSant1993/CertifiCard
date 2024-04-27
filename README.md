@@ -18,7 +18,7 @@ Este é o Certificard, um projeto desenvolvido durante a Imersão Alura. O Certi
 
 ## GitHub Pages:
 
-Este projeto está hospedado no GitHub Pages. Você pode acessá-lo [aqui](https://seu-usuario.github.io/Certificard/).
+Este projeto está hospedado no GitHub Pages. Você pode acessá-lo [Aqui](https://luansant1993.github.io/CertifiCard/).
 
 ## Contribuição:
 
